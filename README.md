@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Roobhasri S 👋</h1>
 
 <p align="center">
-  <i>Full-Stack Developer | Flutter Enthusiast | Aspiring Data Scientist</i>
+  <i>Full-Stack Developer | Tech Enthusiast | Aspiring Data Scientist</i>
 </p>
 
 ---
